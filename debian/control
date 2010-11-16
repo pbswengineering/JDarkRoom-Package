@@ -1,0 +1,15 @@
+Source: jdarkroom
+Section: editors
+Priority: extra
+Maintainer: Paolo Bernardi <villa.lobos@tiscali.it>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.8.4
+Homepage: http://www.codealchemists.com/jdarkroom/
+#Vcs-Git: git://git.debian.org/collab-maint/jdarkroom.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/jdarkroom.git;a=summary
+
+Package: JDarkRoom
+Architecture: all
+Depends: ${misc:Depends} java-runtime
+Description: A full screen, distraction free editor
+ JDarkRoom is a Java Based distraction free editor.

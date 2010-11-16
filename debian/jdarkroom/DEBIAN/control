@@ -1,0 +1,10 @@
+Package: jdarkroom
+Version: 15
+Architecture: all
+Maintainer: Paolo Bernardi <paolo.bernardi@gmx.it>
+Installed-Size: 296
+Section: editors
+Priority: extra
+Homepage: http://www.codealchemists.com/jdarkroom/
+Description: A full screen, distraction free editor
+ JDarkRoom is a Java Based distraction free editor.
